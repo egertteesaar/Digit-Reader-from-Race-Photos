@@ -1,2 +1,2 @@
-# digit_reader_from_sportfotos
+# Digit Reader from Sportfotos
 Reads chest numbers from race photos. 
